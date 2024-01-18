@@ -1,0 +1,9 @@
+{
+    "Name": "[DLL] RandomMailGiftMod",
+    "Author": "Kenet2016",
+    "Version": "1.0.0",
+    "Description": "A simple mod that will give the player a random stack each morning",
+    "UniqueID": "Kenet2016.EarlyChristmas",
+    "EntryDll": "EarlyChristmas.dll",
+    "UpdateKeys": ["Nexus;???"]
+}
